@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.3",
-      "buildId": "tfhsodgmlndgzp635lyjw3rgsu"
+      "buildId": "xriuyspbqngrvb6ojd3mck6xam"
     }
   },
   "variants": [
@@ -30,10 +30,10 @@
           "name": "sam-0.1.0.jar",
           "url": "sam-0.1.0.jar",
           "size": 13567,
-          "sha512": "d38582ac2e41705518e2415eece2b1586dbd67e80b07d71ad9b04dba2ada2ab210c28c9ce5e7f2ef9332f11b0cc00f182426eed6cd0298b1a35c49a0ba9110b4",
-          "sha256": "3978e8e0be2510cbe43a945a83efcedf94f0fc3f3428b80ada3fc05dc086f53c",
-          "sha1": "1831566aeac19325a69e0329ffa12f506aeaf6f1",
-          "md5": "aafdfff9c15afc48d3ff4d5c2c9ac985"
+          "sha512": "6ed5c8490304c40e1ae90f47e3ede9fe7282591d659d9d02702fedccb71e654cb1c1b222cc82603c67da215f3aa3dbfa3753654e08643e0f019a38fbf190a279",
+          "sha256": "8eb7bc4f1a9b138069f5804ae03ce5f77b588786cac4245b6ab1ec726cd7a6ce",
+          "sha1": "6fefa4a92a4cc78b90cbf2647fb60265bc607642",
+          "md5": "840d4f60364322cdd50649928460a4c7"
         }
       ]
     },
@@ -61,10 +61,10 @@
           "name": "sam-0.1.0.jar",
           "url": "sam-0.1.0.jar",
           "size": 13567,
-          "sha512": "d38582ac2e41705518e2415eece2b1586dbd67e80b07d71ad9b04dba2ada2ab210c28c9ce5e7f2ef9332f11b0cc00f182426eed6cd0298b1a35c49a0ba9110b4",
-          "sha256": "3978e8e0be2510cbe43a945a83efcedf94f0fc3f3428b80ada3fc05dc086f53c",
-          "sha1": "1831566aeac19325a69e0329ffa12f506aeaf6f1",
-          "md5": "aafdfff9c15afc48d3ff4d5c2c9ac985"
+          "sha512": "6ed5c8490304c40e1ae90f47e3ede9fe7282591d659d9d02702fedccb71e654cb1c1b222cc82603c67da215f3aa3dbfa3753654e08643e0f019a38fbf190a279",
+          "sha256": "8eb7bc4f1a9b138069f5804ae03ce5f77b588786cac4245b6ab1ec726cd7a6ce",
+          "sha1": "6fefa4a92a4cc78b90cbf2647fb60265bc607642",
+          "md5": "840d4f60364322cdd50649928460a4c7"
         }
       ]
     }
