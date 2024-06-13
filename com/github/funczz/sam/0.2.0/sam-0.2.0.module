@@ -30,10 +30,10 @@
           "name": "sam-0.2.0.jar",
           "url": "sam-0.2.0.jar",
           "size": 5985,
-          "sha512": "1e5b24c608d0f50611a15c143ea3da48715031cb9e502621b924f996f0b2372006dfeec25955ed0b68b55bd645c2ed12abc391515afcc058092845aebb671b1a",
-          "sha256": "296423fab4fe2a5028f16432fad1732521cbe3f7ad996cebc0c6d97d62a28ff9",
-          "sha1": "4199ed0d048e92ff3b45c311cdc00d5f6b9deff0",
-          "md5": "71437ceba2674c91518b40767d911785"
+          "sha512": "2d5b26936c3de56105b94d8561986897e42f599bb1001ff16f7ad063f2ddbf68b4e0f106c2af4a0d357435f08b31b5c5942360e2c8e1344918b6ef588173ad89",
+          "sha256": "24e84c76637e388955dcce54658397c0cc1a26fb9160fea103f942bc62ac3036",
+          "sha1": "672af2e9f7a4692ef68c0115fe255e991ebfa7c0",
+          "md5": "28bc6360a119f3d9121deff69629215b"
         }
       ]
     },
@@ -62,10 +62,10 @@
           "name": "sam-0.2.0.jar",
           "url": "sam-0.2.0.jar",
           "size": 5985,
-          "sha512": "1e5b24c608d0f50611a15c143ea3da48715031cb9e502621b924f996f0b2372006dfeec25955ed0b68b55bd645c2ed12abc391515afcc058092845aebb671b1a",
-          "sha256": "296423fab4fe2a5028f16432fad1732521cbe3f7ad996cebc0c6d97d62a28ff9",
-          "sha1": "4199ed0d048e92ff3b45c311cdc00d5f6b9deff0",
-          "md5": "71437ceba2674c91518b40767d911785"
+          "sha512": "2d5b26936c3de56105b94d8561986897e42f599bb1001ff16f7ad063f2ddbf68b4e0f106c2af4a0d357435f08b31b5c5942360e2c8e1344918b6ef588173ad89",
+          "sha256": "24e84c76637e388955dcce54658397c0cc1a26fb9160fea103f942bc62ac3036",
+          "sha1": "672af2e9f7a4692ef68c0115fe255e991ebfa7c0",
+          "md5": "28bc6360a119f3d9121deff69629215b"
         }
       ]
     }
